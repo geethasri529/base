@@ -1,0 +1,2 @@
+this is the page where we can edit the customers,restraunts,deliveries,menu cards as what we like and the edited 
+content will be displayed when you view it.not all persons can edit only authorized persons can edit it
